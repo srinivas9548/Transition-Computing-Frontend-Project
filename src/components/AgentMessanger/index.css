@@ -4,6 +4,12 @@
     flex-shrink: 0;
 }
 
+@media screen and (min-width: 1200px) {
+    .agent-messanger-container {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .agent-messanger-container {
         width: 100%;

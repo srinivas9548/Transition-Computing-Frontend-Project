@@ -6,6 +6,12 @@
     padding-bottom: 20px;
 }
 
+@media screen and (min-width: 1200px) {
+    .agent-card-item-container {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .agent-card-item-container {
         width: 100%;
