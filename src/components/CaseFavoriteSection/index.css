@@ -5,6 +5,12 @@
     margin-top: 20px;
 }
 
+@media screen and (min-width: 1200px) {
+    .case-favorite-section-container {
+        width: 100%;
+    }
+}
+
 .case-favorite-section-header {
     display: flex;
     align-items: center;

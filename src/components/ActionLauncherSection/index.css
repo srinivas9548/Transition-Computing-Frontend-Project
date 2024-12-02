@@ -5,6 +5,12 @@
     margin-top: 20px;
 }
 
+@media screen and (min-width: 1200px) {
+    .action-launcher-section-container {
+        width: 100%;
+    }
+}
+
 .action-launcher-section-header {
     display: flex;
     align-items: center;
