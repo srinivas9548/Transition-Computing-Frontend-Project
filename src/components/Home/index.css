@@ -43,3 +43,9 @@
         width: 100%;
     }
 }
+
+@media screen and (min-width: 1200px) {
+    .home-advance-features-section {
+        width: 100%;
+    }
+}
