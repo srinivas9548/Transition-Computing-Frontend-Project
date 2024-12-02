@@ -10,12 +10,18 @@
     flex-shrink: 0;
 }
 
-@media screen and (max-width: 991px) {
+/* @media screen and (max-width: 991px) {
     .sidebar-main-container {
         display: flex;
         position: fixed;
         top: 0;
         left: 0;
+    }
+} */
+
+@media screen and (max-width: 767px) {
+    .sidebar-main-container {
+        width: 22px;
     }
 }
 
